@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample MediaPlayer</string>
+    <string name="unknown_artist">unknown artist</string>
+    <string name="unknown_song_details">unknown song details</string>
+    <string name="song_description">song_description</string>
+    <string name="unknown_song_title">Unknown Song Title</string>
+</resources>
